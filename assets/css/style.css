@@ -15,10 +15,14 @@ body {
 
 .area {
     display: flex;
-    height: 100vh;
+    height: 95vh;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+h3 {
+    font-weight: 400;
 }
 
 .login {
@@ -38,11 +42,10 @@ label {
     padding-top: 5px;
 }
 
-.rest-back {
-    padding-top: 10px;
+.redes-sociais {
+    margin-top: 10px;
 }
 
-.rest-back a {
-    text-decoration: none;
-    color: rgb(34, 34, 34);
+.redes-sociais img {
+    padding: 5px;
 }
