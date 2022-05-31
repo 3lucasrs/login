@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(223, 222, 222);
+    height: 100vh;
+}
+
+.logo {
+    padding: 5px;
+    text-align: center;
+}
+
+.logo img {
+    width: 30%;
+    height: auto;
+}
+
+.area {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    padding: 20px;
+    width: 100%;
+    max-width: 300px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.remember {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+label {
+    padding-top: 5px;
+}
+
+.rest-back {
+    padding-top: 10px;
+}
+
+.rest-back a {
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+}
