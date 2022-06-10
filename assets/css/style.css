@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(223, 222, 222);
+    background-color: rgb(179, 179, 179);
     height: 100vh;
 }
 
@@ -30,7 +30,8 @@ h3 {
     width: 100%;
     max-width: 300px;
     background-color: white;
-    border-radius: 10px;
+    border-top-left-radius: 10%;
+    border-end-end-radius: 10%;
 }
 
 .remember {
